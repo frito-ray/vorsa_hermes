@@ -6,6 +6,18 @@
 - Domain: Dermatopathology lab operations
 - Delivery partner: VorsaTech, LLC (Vorsa)
 
+## Delivery Partner Profile — Vorsa (from Vorsa Naming Case deck, Mar 2026)
+- Platform model: AI-native operating platform to acquire, rebuild, and run companies (not a traditional PE firm)
+- Brand architecture: Branded-house model with "Vorsa" as master brand across entities
+- Core entities:
+  - Vorsa Management, LLC (GP/Manager)
+  - Vorsa Capital, LLLP (fund vehicle)
+  - VorsaTech, LLC (technology arm)
+- Planned extensions: Vorsa Consulting, VorsaOps, Vorsa Studio, Vorsa Labs
+- Naming rationale: from Latin *vorsus* (to turn/rotate/transform), chosen to signal transformation without being literal
+- Stated positioning: institutional, extensible, protectable, and search-clean
+- Team noted in deck: David Robison, Jonathan Klein, Luis Luque, Tim Neal, Chip Ray
+
 ## Primary User
 - Dr. John Cangelosi (Physician / Pathologist)
 - Remote location noted in SRD: Houston, TX
